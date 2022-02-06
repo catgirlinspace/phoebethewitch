@@ -1,4 +1,6 @@
-### Hi there 👋
+### hi there 👋
+
+i'm madeline, or maddy! i'm a trans catgirl! my pronouns are she/her. i do lots of roblox dev things. i'm currently learning asp.net and c#, they're pretty cool! you can find me on twitter at [@madelinecatgirl](https://twitter.com/madelinecatgirl)!
 
 <!--
 **madelinecatgirl/madelinecatgirl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
